@@ -1,6 +1,8 @@
 ---
 layout: page
-title: deepak siddharth parthipan
-tagline: personal blog
-description: simple website with GitHub Pages
+title: Deepak Parthipan
+tagline: Personal Blog
+description: Collections of personal stories.
 ---
+
+- [Overview](pages/overview.html)
