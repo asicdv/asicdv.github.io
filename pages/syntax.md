@@ -16,10 +16,13 @@ def foo():
   print 'foo'
 ```
 
-{% highlight javascript %}
+``` javascript
 function test() {
     console.log("test");
 }
+```
+{% highlight javascript %}
+document.write("JavaScript is a simple language for javatpoint learners");
 {% endhighlight %}
 
 ```systemverilog
