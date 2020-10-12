@@ -21,7 +21,15 @@ function test() {
     console.log("test");
 }
 ```
+
+``` javascript
+document.write("JavaScript is a simple language for javatpoint learners");
+```
+
 {% highlight javascript %}
+function test() {
+    console.log("test");
+}
 document.write("JavaScript is a simple language for javatpoint learners");
 {% endhighlight %}
 
