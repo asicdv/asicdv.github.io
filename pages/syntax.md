@@ -16,11 +16,11 @@ def foo():
   print 'foo'
 ```
 
-``` javascript
+{% highlight javascript %}
 function test() {
     console.log("test");
 }
-```
+{% endhighlight %}
 
 ```systemverilog
   function void display();
