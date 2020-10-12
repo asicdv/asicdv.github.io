@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Polymorphism(virtual methods and class) and Casting
-description: Overview of construction of a website with GitHub Pages
-date: 2020-10-12 02:27 -0400
+description: 
 ---
 
 * You can assign child class handle to parent class(up-casting), vice-versa is not allowed.
