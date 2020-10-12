@@ -11,14 +11,14 @@ highlighter: rouge
 #
 title : Deepak Parthipan
 author :
-  name : Deepak Siddharth Parthipan
+  name : Deepak Parthipan
   email : deepak.parthipan@hotmail.com
   github : asicdv
   twitter : asicdv
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://asicdv.github.io/home
+production_url : https://asicdv.github.io/deepakparthipan
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -61,7 +61,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: Replace this next line with your own URL, likely with username.github.io
-  BASE_PATH : https://asicdv.github.io/home
+  BASE_PATH : https://asicdv.github.io/deepakparthipan
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
