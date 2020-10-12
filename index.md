@@ -7,3 +7,4 @@ description: Collections of personal stories.
 
 - [Overview](pages/overview.html)
 - [Polymorphism](pages/polymorphism.html)
+- [Syntax](pages/syntax.html)
