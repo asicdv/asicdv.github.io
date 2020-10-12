@@ -30,9 +30,9 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-      #css_class: 'highlight'
       default_lang: html
-      css_class: 'syntax'
+      css_class: 'highlight'
+      #css_class: 'syntax'
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
