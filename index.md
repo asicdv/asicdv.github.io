@@ -5,7 +5,8 @@ tagline: Personal Blog
 description: Collections of personal stories.
 ---
 
-- [Overview](pages/overview.html)
-- [Polymorphism](pages/polymorphism.html)
-- [Syntax](pages/syntax.html)
-- [Static vs Automatic](pages/staticvsautomatic.html)
+- [About me](pages/overview.html)
+- [Design](pages/design.html)
+- [Verification](pages/verification.html)
+
+
