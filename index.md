@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Inner Journey
-tagline: Seeking Knowledge, Wisdom and Truth
+title: Deepak Siddharth Parthipan
+tagline: Journey towards Self Discovering 
 description: Personal Blog.
 ---
 
