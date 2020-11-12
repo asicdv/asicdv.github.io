@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deepak Siddharth Parthipan
-tagline: Journey towards Self Discovering 
+tagline: My Journey towards self-discovering 
 description: Personal Blog.
 ---
 
