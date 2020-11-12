@@ -1,4 +1,3 @@
 ## Personal Blog
-View the thing [here](https://deepakparthipan.github.io/home).
-
+View my blog [here](https://asicdv.github.io/).
 ---

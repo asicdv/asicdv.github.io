@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Deepak Parthipan
-tagline: Personal Blog
-description: Collections of personal stories.
+title: My Inner Journey
+tagline: Seeking Knowledge, Wisdom and Truth
+description: Personal Blog.
 ---
 
 - [About me](pages/aboutme.html)
