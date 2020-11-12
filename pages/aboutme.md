@@ -11,6 +11,6 @@ Here I would like to self-journal concepts and problems as I learn, thought proc
 I am very passionate about Hardware design and verification. 
 
 Im interested in exploring below subjects but not limited to.
-Design: Logic Design, Algorithms, Comp Arch, Embedded, Signal Processing.
-Hardware Verification: DV architecture, UVM, Assertions, Formal, GLS.
-Language/OS: System Verilog, C++, Python, ASM, Unix, Simulink(MATLAB).
+Design: Logic Design, Algorithms, Comp Arch, Embedded, Signal Processing.<br>
+Hardware Verification: DV architecture, UVM, Assertions, Formal, GLS.<br>
+Language/OS: System Verilog, C++, Python, ASM, Unix, Simulink(MATLAB).<br>
