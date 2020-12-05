@@ -6,6 +6,7 @@ description: Personal Blog.
 ---
 
 - [About me](pages/aboutme.html)
-- [Design](pages/design.html)
-- [Verification](pages/verification.html)
-- [Thoughts](pages/thoughts.html)
+- [Design](pages/design/design.html)
+- [Verification](pages/verification/verification.html)
+- [Coding](pages/coding/coding.html)
+- [Thoughts](pages/thoughts/thoughts.html)
