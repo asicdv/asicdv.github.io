@@ -1,5 +1,5 @@
 ---
 layout: page
-title: cognition
+title: Cognition
 description: Brain Science
 ---
