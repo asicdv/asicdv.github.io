@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pursuit of Self Development 
+title: In-Pursuit of Personal Growth
 description: All my life thoughts.
 ---
 
