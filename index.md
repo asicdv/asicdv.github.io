@@ -9,4 +9,4 @@ description: Personal Blog.
 - [Design](pages/design/design.html)
 - [Verification](pages/verification/verification.html)
 - [Coding](pages/coding/coding.html)
-- [Thoughts](pages/thoughts/thoughts.html)
+- [Pursuit of Personal Growth](pages/pursuit/pursuit.html)
