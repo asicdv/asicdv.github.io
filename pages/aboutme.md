@@ -13,3 +13,5 @@ I am very passionate about Hardware design and verification. Im interested in ex
 Design: Logic Design, Algorithms, Comp Arch, Embedded, Signal Processing.<br>
 Hardware Verification: DV architecture, UVM, Assertions, Formal, GLS.<br>
 Language/OS: System Verilog, C++, Python, ASM, Unix, Simulink(MATLAB).<br>
+
+I also like learning about how to develop meta learning skills, read blogs about mental models, cognitive psychology, productivity. If you land at this page do [hit me up](mailto:deepak.parthipan@hotmail.com), I would love to hear from you.
